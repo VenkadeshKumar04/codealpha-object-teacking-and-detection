@@ -4,11 +4,6 @@ This project demonstrates real-time object detection and tracking using **YOLOv8
 
 ---
 
-## 📸 Demo
-
-https://github.com/yourusername/yolo-deepsort-jupyter/assets/demo.gif *(Add a gif/screenshot here)*
-
----
 
 ## 🧰 Tech Stack
 
